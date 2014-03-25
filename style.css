@@ -154,7 +154,7 @@ nav ul li a:hover, nav ul li a:active
 
 /* TOWERS TV */
 
-#TowersTV 
+.BlueSection 
 {
 	width:auto;
 	height:auto;
@@ -164,18 +164,18 @@ nav ul li a:hover, nav ul li a:active
 	background-color: #0072bc;
 }
 
-#TowersTV h2 
+.BlueSection h2 
 {
 	color: white;
 }
 
-#TowersTV h3 
+.BlueSection h3 
 {
 	color: #cccccc;
 	padding-bottom: 20px;
 }
 
-/* BlogPosts */ 
+/* BlogPosts  
 
 #BlogPosts article
 {
@@ -201,6 +201,8 @@ nav ul li a:hover, nav ul li a:active
 {
 	text-align: left;
 }
+
+*/ 
 
 /* footer */ 
 #footer 
