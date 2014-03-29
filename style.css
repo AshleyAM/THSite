@@ -107,7 +107,7 @@ nav ul li a:hover, nav ul li a:active
 .container
 {
 	clear: both;
-	width:auto;
+	width:100%;
 	margin: 0 auto;
 	position:relative;
 	background-color: black;
