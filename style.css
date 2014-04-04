@@ -104,7 +104,7 @@ nav ul li a:hover, nav ul li a:active
 
 /* Slider */
 
-.container
+#container
 {
 	clear: both;
 	width:100%;
@@ -113,7 +113,7 @@ nav ul li a:hover, nav ul li a:active
 	background-color: black;
 }
 
-#slides 
+.slides 
 {
 	margin: 0 auto;
 	width: 900px;
@@ -224,5 +224,19 @@ nav ul li a:hover, nav ul li a:active
 	font-size: 12px;
 	line-height: 12px;
 }
+
+/* ETRA BITS */ 
+
+.fullPic
+{
+	clear: both;
+	width:100%;
+	margin: 0 auto;
+	margin-top: 20px;
+	position:relative;
+	background-color: black;
+}
+
+
 
 
