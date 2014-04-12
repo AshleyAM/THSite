@@ -157,6 +157,11 @@ nav ul li a:hover, nav ul li a:active
 	margin-bottom: 20px;
 }
 
+.clear
+{
+	background-color: none;
+}
+
 .WhiteSection iframe 
 {
 	padding-bottom: 30px;
