@@ -149,7 +149,7 @@ nav ul li a:hover, nav ul li a:active
 	font-size: 14px;
 	color: white;
 	padding: 0px 5px 0px 5px;
-	 
+	margin-bottom: 20px;
 }
 
 .WhiteSection iframe 
@@ -165,13 +165,14 @@ nav ul li a:hover, nav ul li a:active
 	height:auto;
 	position:relative;
 	margin-top: 30px;
-	padding: 20px 0 30px 0;
+	padding: 0 0 30px 0;
 	background-color: #0072bc;
 }
 
 .BlueSection h2 
 {
 	color: white;
+	padding-top: 10px;
 }
 
 .BlueSection h3 
@@ -217,6 +218,8 @@ nav ul li a:hover, nav ul li a:active
 	background-color: #0072bc;
 	text-align:right;
 	padding: 15px 10px 15px 10px;
+	margin-top: 10px;
+	
 }
 
 #footer p {
@@ -235,6 +238,10 @@ nav ul li a:hover, nav ul li a:active
 	margin-top: 20px;
 	position:relative;
 	background-color: black;
+}
+
+.headshot {
+	padding-bottom: 13px;
 }
 
 
