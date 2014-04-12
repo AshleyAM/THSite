@@ -143,6 +143,11 @@ nav ul li a:hover, nav ul li a:active
 	padding-bottom: 10px;
 }
 
+.WhiteSection p .centerList
+{
+	text-align: center;
+}
+
 .WhiteSection a, .WhiteSection a:hover, .WhiteSection a:visited
 {
 	background-color: #a1a1a1;
